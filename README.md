@@ -1,2 +1,0 @@
-# MenuApp
-Created with CodeSandbox
